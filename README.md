@@ -127,6 +127,11 @@ SQL scripts are available in the **sql/** folder.
 
 ---
 
+## 📷 Dashboard Preview
+![Retail_sales_&_Inventory_Analysis_Dashboard](Retail_sales_&_Inventory_Analysis_Dashboard.png)
+
+---
+
 ## 🚀 Outcome
 
 This project demonstrates **real-world Data Analyst skills**, including:
