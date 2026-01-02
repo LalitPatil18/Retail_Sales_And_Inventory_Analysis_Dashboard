@@ -5,7 +5,7 @@
 This is an **end-to-end real-world Data Analytics project** built using **Excel, SQL, and Power BI**.
 The project analyzes retail sales, store performance, inventory efficiency, and discount impact to support **data-driven business decisions**.
 
-The dataset represents **50 retail stores**, **150,000+ sales transactions**, and **6 months of operational data**, modeled and analyzed exactly like a real business environment.
+The dataset represents **35 retail stores**, **150,000+ sales transactions**, and **6 months of operational data**, modeled and analyzed exactly like a real business environment.
 
 ---
 
